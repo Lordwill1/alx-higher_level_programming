@@ -21,6 +21,7 @@ This folder contains a basic introduction of the python programming language.
 - [102-magic_calculation.py](102-magic_calculation.py) : Python function ```def magic_calculation(a, b):``` that does exactly the same as the given Python bytecode
 - [lists.h](lists.h) : contains the header file used in [10-check_cycle.c](10-check_cycle.c)
 my first features
+in pytyhon
 
 ## Resources 
 - [Python documentation](https://docs.python.org/3/tutorial/index.html)
